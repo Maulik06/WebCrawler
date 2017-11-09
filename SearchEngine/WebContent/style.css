@@ -1,0 +1,50 @@
+body > h1 {
+	display: block;
+	margin: 50px auto 50px auto;
+	text-align: center;
+	font-size: 4rem;
+}
+
+section {
+	max-width: 550px;
+	width: 100%;
+	margin: 0 auto 50px auto;
+}
+
+form {
+	display: block;
+    margin: 0 auto;
+    width: 90%;
+    max-width: 500px;
+    padding: 30px;
+}
+
+form h1 {
+	font-size: 2rem;
+}
+
+.response {
+	text-align: center;
+    width: 90%;
+    margin: 20px auto;
+    background: #ffffbb;
+}
+.search{
+	width: 500px;
+	height:40px;
+	font-size:30px;
+}
+
+
+body > h2{
+	
+	text-align: center;
+}
+body > h3{
+	
+	text-align: center;
+}
+
+.response .text {
+	color: green;
+}
